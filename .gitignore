@@ -1,0 +1,21 @@
+
+
+# Dependency directories
+node_modules/
+
+# next.js build output
+.next
+/build
+
+
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+
+# dotenv environment variables file (build for Zeit Now)
+.env
+.env.build

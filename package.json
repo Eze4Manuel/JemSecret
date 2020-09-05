@@ -1,0 +1,28 @@
+{
+  "name": "gemsecret",
+  "version": "1.0.0",
+  "description": "An Ecommerce site for jemsecret business",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "JemSecret",
+    "Jem",
+    "Secret",
+    "Jem",
+    "Secret"
+  ],
+  "author": "Ezenagu Emmanuel",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.6.1",
+    "mongoose": "^5.10.3",
+    "next": "^9.5.3",
+    "next-connect": "^0.8.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
